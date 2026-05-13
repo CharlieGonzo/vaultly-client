@@ -1,4 +1,4 @@
-# 💰 FinanceAI — AI-Powered Finance Tracking App
+# 💰 Vaultly — AI-Powered Finance Tracking App
 
 A full-stack personal finance tracker where users sign up, log in, track income and expenses, and get personalized AI financial advice powered by Google Gemini.
 
